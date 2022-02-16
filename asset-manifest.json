@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/MUI-blog/static/js/main.263971d8.chunk.js",
+    "main.js.map": "/MUI-blog/static/js/main.263971d8.chunk.js.map",
+    "runtime-main.js": "/MUI-blog/static/js/runtime-main.9bfc4818.js",
+    "runtime-main.js.map": "/MUI-blog/static/js/runtime-main.9bfc4818.js.map",
+    "static/js/2.0a38679a.chunk.js": "/MUI-blog/static/js/2.0a38679a.chunk.js",
+    "static/js/2.0a38679a.chunk.js.map": "/MUI-blog/static/js/2.0a38679a.chunk.js.map",
+    "index.html": "/MUI-blog/index.html",
+    "precache-manifest.75c6797ab200f4ac98917cdd5567a113.js": "/MUI-blog/precache-manifest.75c6797ab200f4ac98917cdd5567a113.js",
+    "service-worker.js": "/MUI-blog/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bfc4818.js",
+    "static/js/2.0a38679a.chunk.js",
+    "static/js/main.263971d8.chunk.js"
+  ]
+}
